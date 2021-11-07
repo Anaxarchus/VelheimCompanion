@@ -2,13 +2,15 @@
 A compaion app for the Runescape private server 'Velheim'
 
 ## Commands
-**Edit Mode**: *Ctrl + Alt + A*
-**Clear Image Cache**: *Ctrl + Alt + F1*
+* **Edit Mode**: *Ctrl + Alt + A*
+* **Clear Image Cache**: *Ctrl + Alt + F1*
 
 ## Features
 
 ### Search Bar
 The search bar is found at the upper right hand corner of the world map. If you begin typing with a number, you'll start to fill in the Coordinate Search bars. If you start to type with anything other then a number, you'll start to fill in the search bar. Clicking on the results returned by the search bar will take you to that results position on the World Map.
+
+
 
 ### Farming Timers
 
@@ -17,6 +19,8 @@ To create a farming timer, find the patch you intend to grow and left click it. 
 
 #### Timer Behaviour
 When a timer reaches 00:00, the UI will automatically switch to the timer menu, and the timer will begin to flash. Timers can be reset or deleted at anytime.
+
+
 
 ### Clues
 
